@@ -1,0 +1,7 @@
+include README.md
+include LICENSE
+include pyproject.toml
+recursive-include mtl_protein_disorder *.py
+recursive-exclude tests *
+recursive-exclude examples *
+
