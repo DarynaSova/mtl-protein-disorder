@@ -8,11 +8,11 @@ A cross-platform PyTorch package for multi-task prediction of protein disorder: 
 
 ## Features
 
-- 🚀 Cross-Platform Compatible (CUDA, MPS, CPU)
-- 🧬 Multi-Task Learning (simultaneous disorder classification and flexibility regression)
-- 🏗️ Simple Feedforward Neural Network architecture (easy to modify)
-- 📊 Trains on your CSV, predicts on new data
-- ⚡ Easily extensible to new features or additional disorder/flexibility tasks
+- Cross-Platform Compatible (CUDA, MPS, CPU)
+- Multi-Task Learning (simultaneous disorder classification and flexibility regression)
+- Simple Feedforward Neural Network architecture (easy to modify)
+- Trains on your CSV, predicts on new data
+- Easily extensible to new features or additional disorder/flexibility tasks
 
 ## Quick Start
 
